@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "direbase-auth-sample",
-    "slug": "direbase-auth-sample",
+    "name": "firebase-auth-sample",
+    "slug": "firebase-auth-sample",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -13,9 +13,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
